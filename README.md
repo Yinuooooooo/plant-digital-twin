@@ -81,7 +81,7 @@ Performance Index = Actual / Predicted
     ↓
 Anomaly Detection + Financial Attribution
     ↓
-FastAPI Backend → Lovable React Dashboard
+Lovable React Dashboard (solartttt.lovable.app)
 ```
 
 ---
@@ -188,7 +188,6 @@ All 65 models exceed R² = 0.945
 | ML Models | LightGBM |
 | Irradiance correction | pvlib |
 | Data processing | pandas, numpy |
-| Backend API | FastAPI |
 | Dashboard | Lovable (React) |
 | Visualizations | Recharts |
 
