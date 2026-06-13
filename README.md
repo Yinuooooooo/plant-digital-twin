@@ -1,4 +1,4 @@
-# 🌞 Plant A — Digital Twin Monitor
+# 🌞 Digital Twins for Solar Plant Intelligence
 **Enerparc Challenge · Energy Hack Munich · June 2026**
 
 > *"PR gives you one number. We give you 65 — and the full story behind each one."*
