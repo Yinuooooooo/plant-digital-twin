@@ -181,7 +181,7 @@ All 65 models exceed R² = 0.945
 | Name | Role |
 |------|------|
 | Chih-Chi Wang | ML modeling, data analysis, financial attribution |
-| Yinuo | Frontend dashboard, data visualization, AI assistant |
+| Yinuo Wang | Frontend dashboard, data visualization, AI assistant |
 
 ---
 
